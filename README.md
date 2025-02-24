@@ -15,6 +15,6 @@ For each experiment, the program reports:
 The code is written to be adaptable for various experimental setups. You can modify the value of L and the number of experiments by altering the num_experiments variable in the main() function. Intermediate results and detailed outputs are printed during the execution to allow you to monitor the progress of the attack.
 
 ## Licence
-Rubato Attack is licensed under the MIT License.
+The Collision Attack is licensed under the MIT License.
 
 * MIT license ([LICENSE](../LICENSE) or http://opensource.org/licenses/MIT)
